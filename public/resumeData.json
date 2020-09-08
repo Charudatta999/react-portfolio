@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Charudatta Jadhav",
+    "occupation": "  Student Studying at Nutan College OF Engineering and Research (Pune)",
+    "description": "Aspiring Full Stack web Developer ,Diving In the world Of technology",
+    "image": "IG_cj.jpg",
+    "bio": "My name is Charudatta,  I'm an Entreperner on my Path progressing an Aspiring Full Stack web Developer. Currently I'm Student   at Nutan College Of Engineering And Research Pursuing My B-Tech in Computer Science Learning Web Technologies. Upgrading My Stack with various new technologies like Machine Learning, Image Processing, Full Stack Web Development. Grinding and Hustling on 🚀...",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "cjawsome999@gmail.com",
+    "phone": "+91 7020 143 530",
     "address": {
       "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "city": "Karad",
+      "state": "India(Maharashtra)",
+      "zip": "Karad 415108 "
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "#",
+    "resumedownload": "#",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/charudatta.jadhav.3",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/charudatta-jadhav-161964150/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/_charudatta/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/Charudatta999",
         "className": "fa fa-github"
       }
     ]
@@ -43,10 +43,16 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "DBATU,Raigad(Maharashtra),India ",
+        "degree": "B-Tech in Computer Science",
+        "graduated": "Pursuing",
+        "description": "Pursuing"
+      },  
+      {
+        "school": "MSBTE(Maharashtra),India ",
+        "degree": "Diploma in Information Technology",
+        "graduated": "2019 March",
+        "description": "Completed With First Class"
       }
     ],
     "work": [
@@ -66,18 +72,18 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "0%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "60%"
       },
       {
         "name": "Git",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
+        "name": "python",
         "level": "55%"
       },
       {
@@ -85,42 +91,37 @@
         "level": "80%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "MySql",
+        "level": "70%"
+      },
+      {
+        "name": "java",
+        "level": "35%"
+      },
+      {
+        "name": "php",
+        "level": "55%"
+      },
+       {
+        "name": "laravel",
+        "level": "65%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "A grivenace redressal portal Prototype",
+        "category": "Built With Laravel 7 Can't add Repo link due Security Concerns",
+        "image": "laravel.png",
+        "url": "https://github.com/Charudatta999/kb220_hackvengers"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "A Django Blog ",
+        "category": "A blogging site prototype built with django",
+        "image": "django.png",
+        "url": "https://github.com/Charudatta999/miniproject"
       }
     ]
   },
